@@ -1,0 +1,13 @@
+# Folders
+node_modules
+build
+dist
+.next
+.vscode
+
+# Files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
